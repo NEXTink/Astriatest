@@ -2,17 +2,7 @@
   "posts": [
     { "id": 1, 
      "title": "Rules of court Orders in Abia State High Court (Civil Procedure 2009 )All orders" ,
-     "body":{
-        "title": " Rules in ORDER 1 - APPLICATION AND INTERPRETATION",
-       "description":{
-         "rule": {
-         "ruleTitle":"RULE 1 - CITATION AND COMMENCEMENT",
-         "ruleBody": "These Rules may be cited as the Abia State High Court (Civil Procedure) Rules 2009 and shall come into force on the 1st day of July, 2009.",  
-         }
-        
-       }
-     },
-    },
+  },
     
   ],
  

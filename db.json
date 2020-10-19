@@ -1,15 +1,16 @@
 {
   "posts": [
     { "id": 1, "title": "Post test", 
-     "body":{ "title": " Rules in ORDER 1 - APPLICATION AND INTERPRETATION",
-       "description":"These Rules may be cited as the Abia State High Court (Civil Procedure) Rules 2009 and shall come into force on the 1st day of July, 2009.",  
+     "body":
+     { "title": " Rules in ORDER 1 - APPLICATION AND INTERPRETATION",
+       "description": "These Rules may be cited as the Abia State High Court (Civil Procedure) Rules 2009 and shall come into force on the 1st day of July, 2009.",  
          }
-       } },
+       },
   { "id": 2, "title": "Post test2", 
      "body":{ "title": " Rules in ORDER 1 - APPLICATION AND INTERPRETATION",
        "description":"These Rules may be cited as the Abia State High Court (Civil Procedure) Rules 2009 and shall come into force on the 1st day of July, 2009.",  
          }
-       } },
+       },
     
   ],
   "comments": [
